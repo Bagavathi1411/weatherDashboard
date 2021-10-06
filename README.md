@@ -48,7 +48,7 @@ My project web page: https://bagavathi1411.github.io/weatherDashboard/
 My github page:
 hhttps://github.com/Bagavathi1411/weatherDashboard.git
 https://github.com/Bagavathi1411/weatherDashboard
-![My Project webpage ](assets/blahblah.png)
+![My Project webpage ](assets/image/weatherdashboard.png)
 
 # ## License
 
